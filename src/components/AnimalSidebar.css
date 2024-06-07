@@ -1,0 +1,29 @@
+.sidebar-section {
+    background-color: #f8f9fa;
+    padding: 15px;
+    border-right: 1px solid #dee2e6;
+    margin-bottom: 20px;
+  }
+  
+  .sidebar-section h5 {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-section ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  .sidebar-section ul li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-section ul li a {
+    color: #007bff;
+    text-decoration: none;
+  }
+  
+  .sidebar-section ul li a:hover {
+    text-decoration: underline;
+  }
+  

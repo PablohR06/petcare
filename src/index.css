@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+/* Añade este CSS a tu archivo global o en el archivo de estilos correspondiente */
+
+.nav-link {
+    @apply flex items-center py-2 px-4 text-gray-300 hover:bg-gray-700 hover:text-white transition-colors duration-300;
+  }
+  
+  .nav-link.active {
+    @apply bg-gray-700 text-white;
+  }
+  
+  
